@@ -1,3 +1,3 @@
-# Namste nodejs
+# Namste  javaScript
 
-understand node in depth
+understand javascript in depth
