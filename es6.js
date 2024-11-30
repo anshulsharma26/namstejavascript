@@ -29,4 +29,9 @@ console.log(employeeDetails)
 
 // array destructring
 
+let [a,b,...restArr] = [78,67,90,89]
+console.log(`${a} ${b} and ${restArr}`);
+
+console.log(restArr)
+
 
